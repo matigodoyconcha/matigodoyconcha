@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hola, soy Matías Godoy
 
-<!--
-**matigodoyconcha/matigodoyconcha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un estudiante de Ingenieria Civil en Computación de la Univerisad de Chile
 
-Here are some ideas to get you started:
+Altamente interesado en la Ciencia de Datos y Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Habilidades
+
+### Lenguajes
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
+![Racket](https://img.shields.io/badge/Racket-22228F?style=for-the-badge&logo=racket&logoColor=white)
+
+
+
+### Frameworks y Librerías
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Otras herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+---
+
+## 📂 Proyectos Destacados
+
+- [Proyecto IA de Twitch](https://github.com/fco-marquez/stream-mod) - Sistema de moderación automática de mensajes.  
+- [Alerta de Bitcoin](https://github.com/matigodoyconcha/Procesamiento-Masivo-de-Datos) - Monitor de cambios bruscos de precio con Kafka.  
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matigodoyconcha&layout=compact&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=matigodoyconcha&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Contacto
+
+- Email: matias.godoy.concha@gmail.com / matias.godoy.concha@ug.uchile.cl 
+- LinkedIn: https://linkedin.com/in/tu-linkedin
+
