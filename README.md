@@ -46,5 +46,4 @@ Altamente interesado en la Ciencia de Datos y Machine Learning
 ## 📫 Contacto
 
 - Email: matias.godoy.concha@gmail.com / matias.godoy.concha@ug.uchile.cl 
-- LinkedIn: https://linkedin.com/in/tu-linkedin
-
+- LinkedIn:https://cl.linkedin.com/in/mat%C3%ADas-godoy-concha/es
