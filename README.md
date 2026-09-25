@@ -1,12 +1,12 @@
 # 👋 Hola, soy Matías Godoy
 
-Soy un estudiante de Ingenieria Civil en Computación de la Univerisad de Chile
+Soy estudiante de Ingeniería Civil en Computación y del Magíster en Ciencia de Datos de la Universidad de Chile.
 
-Altamente interesado en la Ciencia de Datos y Machine Learning
+Altamente interesado en la Ciencia de Datos y el Machine Learning.
 
 ---
 
-## Habilidades
+## 🛠️ Habilidades
 
 ### Lenguajes
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -16,8 +16,6 @@ Altamente interesado en la Ciencia de Datos y Machine Learning
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![Racket](https://img.shields.io/badge/Racket-22228F?style=for-the-badge&logo=racket&logoColor=white)
-
-
 
 ### Frameworks y Librerías
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -29,23 +27,25 @@ Altamente interesado en la Ciencia de Datos y Machine Learning
 
 ### Otras herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 ---
 
 ## 📂 Proyectos Destacados
 
-- [Proyecto IA de Twitch](https://github.com/fco-marquez/stream-mod) - Sistema de moderación automática de mensajes.  
-- [Alerta de Bitcoin](https://github.com/matigodoyconcha/Procesamiento-Masivo-de-Datos) - Monitor de cambios bruscos de precio con Kafka.  
+- [Proyecto IA de Twitch](https://github.com/fco-marquez/stream-mod) - Sistema de moderación automática de mensajes.
+- [Alerta de Bitcoin](https://github.com/matigodoyconcha/Procesamiento-Masivo-de-Datos) - Monitor de cambios bruscos de precio con Kafka.
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matigodoyconcha&layout=compact&theme=tokyonight)
-![Stats](https://github-readme-stats.vercel.app/api?username=matigodoyconcha&show_icons=true&theme=tokyonight)
+![Racha](https://streak-stats.demolab.com?user=matigodoyconcha&theme=tokyonight)
+
+![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=matigodoyconcha&theme=tokyo-night&hide_border=true)
 
 ---
 
 ## 📫 Contacto
 
-- Email: matias.godoy.concha@gmail.com / matias.godoy.concha@ug.uchile.cl 
-- LinkedIn:https://cl.linkedin.com/in/mat%C3%ADas-godoy-concha/es
+- Email: matias.godoy.concha@gmail.com / matias.godoy.concha@ug.uchile.cl
+- LinkedIn: [Matías Godoy Concha](https://cl.linkedin.com/in/mat%C3%ADas-godoy-concha/es)
