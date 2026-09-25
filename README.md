@@ -39,9 +39,8 @@ Altamente interesado en la Ciencia de Datos y el Machine Learning.
 
 ## 📊 Estadísticas de GitHub
 
-![Racha](https://streak-stats.demolab.com?user=matigodoyconcha&theme=tokyonight)
-
-![Actividad](https://github-readme-activity-graph.vercel.app/graph?username=matigodoyconcha&theme=tokyo-night&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=matigodoyconcha&theme=tokyonight)
+![Lenguajes](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matigodoyconcha&theme=tokyonight)
 
 ---
 
